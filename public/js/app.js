@@ -1,4 +1,3 @@
-console.log('Client-side javascript file')
 
 const weatherForm = document.querySelector('form')
 const serach = document.querySelector('input')
